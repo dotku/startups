@@ -14,3 +14,4 @@
 | --- | --- |
 | Vercel | https://vercel.com/docs/limits/overview |
 | Supabase | https://supabase.com/pricing |
+| Netlify | https://www.netlify.com/ |
